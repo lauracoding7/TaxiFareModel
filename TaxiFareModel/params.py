@@ -1,0 +1,6 @@
+BUCKET_NAME            = 'wagon-data-825-meyer'
+BUCKET_TRAIN_DATA_PATH = 'data/train_1k.csv'
+MODEL_NAME             = 'simpletaxifare'
+MODEL_VERSION          = 'v1'
+STORAGE_LOCATION       = 'models/simpletaxifare/model.joblib'
+BUCKET_TRAINING_FOLDER = 'trainings'
